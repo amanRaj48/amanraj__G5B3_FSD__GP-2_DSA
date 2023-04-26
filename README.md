@@ -22,3 +22,13 @@ Second Line onwards: Contains N inputs in which the ith integer denotes the size
 Output:
 You are required to print N lines. Print the size of the floor in descending order, which can be assembled.
 If no floor can be assembled on the ith day, leave the line empty.
+
+
+2.)
+You are working in an MNC, which manages the Transactions, 
+where only BST is used as a Data Structure.
+The company stores all the data of transactions in BST such that the tree is always a complete BST.
+
+A new business requirement has arrived where the BST should not contain any left node.
+You are required to modify the existing BST and display the node values present in ascending order.
+
